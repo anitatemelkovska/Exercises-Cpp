@@ -16,7 +16,7 @@ while (i<=n)
   i++;
 }
   
-cout<<"s= "<<s;
+cout<<"s= " <<s;
 system("PAUSE");
 return 0;
 }
